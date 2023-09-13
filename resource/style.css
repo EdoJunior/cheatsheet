@@ -1,0 +1,40 @@
+#heading-topic, h1{
+    text-align: center;
+    background-color:aqua;
+    font-weight: bold;
+}
+
+#table{
+    align-content: center;
+}
+
+h2{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: separate;
+    text-align: start;
+    border-spacing: 2px;
+    border-color:black;
+    line-height: normal;
+    align-content: center;
+    margin: 0 auto;
+}
+
+tr{
+    display:table-row;
+    vertical-align: inherit;
+    border-color:inherit;
+}
+
+td ,th{
+    border:2px solid green;
+}
+
+footer{
+    padding: 10px 0;
+    text-align: center;
+}
